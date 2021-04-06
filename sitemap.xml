@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://mehdisenoussi.github.io/about/</loc>
-  </url><url>
-    <loc>https://mehdisenoussi.github.io/</loc>
-  </url><url>
-    <loc>https://mehdisenoussi.github.io/contact/</loc>
-  </url><url>
-    <loc>https://mehdisenoussi.github.io/others/</loc>
-  </url><url>
-    <loc>https://mehdisenoussi.github.io/untitled/</loc>
-  </url><url>
-    <loc>https://mehdisenoussi.github.io/publications/</loc>
-  </url><url>
-    <loc>https://mehdisenoussi.github.io/teaching/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://mehdisenoussi.github.io/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://mehdisenoussi.github.io/fr/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
