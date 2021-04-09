@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mehdisenoussi.github.io/fr/about/</loc>
+    <loc>https://mehdisenoussi.github.io/fr/teaching/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mehdisenoussi.github.io/about/"
+                href="https://mehdisenoussi.github.io/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mehdisenoussi.github.io/fr/about/"
+                href="https://mehdisenoussi.github.io/fr/teaching/"
                 />
   </url><url>
     <loc>https://mehdisenoussi.github.io/fr/</loc>
@@ -26,18 +26,6 @@
                 href="https://mehdisenoussi.github.io/fr/"
                 />
   </url><url>
-    <loc>https://mehdisenoussi.github.io/fr/others/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mehdisenoussi.github.io/others/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://mehdisenoussi.github.io/fr/others/"
-                />
-  </url><url>
     <loc>https://mehdisenoussi.github.io/fr/publications/</loc>
     <xhtml:link
                 rel="alternate"
@@ -50,16 +38,28 @@
                 href="https://mehdisenoussi.github.io/fr/publications/"
                 />
   </url><url>
-    <loc>https://mehdisenoussi.github.io/fr/teaching/</loc>
+    <loc>https://mehdisenoussi.github.io/fr/others/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mehdisenoussi.github.io/teaching/"
+                href="https://mehdisenoussi.github.io/others/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mehdisenoussi.github.io/fr/teaching/"
+                href="https://mehdisenoussi.github.io/fr/others/"
+                />
+  </url><url>
+    <loc>https://mehdisenoussi.github.io/fr/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdisenoussi.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdisenoussi.github.io/fr/about/"
                 />
   </url>
 </urlset>

@@ -6,23 +6,14 @@
     <description>Recent content on Mehdi Senoussi</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://mehdisenoussi.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://mehdisenoussi.github.io/fr/about/</link>
+      <title>Enseignement et encadrement</title>
+      <link>https://mehdisenoussi.github.io/fr/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mehdisenoussi.github.io/fr/about/</guid>
-      <description>À propos  Je suis chercheur postdoctorant en sciences cognitives @ l&amp;rsquo;Université de Gand. Mes recherches portent sur la façon dont nous représentons et utilisons de nouvelles informations de manière flexible pour intéragir avec le monde.
-Research Interest My research focuses on studying the flexibility of perceptual and mnesic representations at behavioral and neural levels, and the cognitive control mechanisms that allow to flexibly use these information to perform various tasks.</description>
-    </item>
-    
-    <item>
-      <title>Other activities</title>
-      <link>https://mehdisenoussi.github.io/fr/others/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mehdisenoussi.github.io/fr/others/</guid>
-      <description>Collective/administrative responsibilities  2019-2021: Responsible for the purchase of two eye-tracking devices for an EEG platform at the Department of Experimental Psychology at Ghent University, and the MRI platform at Ghent University Hospital. Market research, budget calculation, ordering and organization of training provided by the company providing the eye trackers (SR-Research). Administrative and technical support following the purchase.
- Since 2020: Member of the oculometry support group - Department of Experimental Psychology, Ghent University.</description>
+      <guid>https://mehdisenoussi.github.io/fr/teaching/</guid>
+      <description>Cours Magistraux (CM), Travaux Dirigés (TD), Travaux Pratiques (TP).
+Total: &amp;gt; 240 Heures en Psychologie Cognitive, Ergonomie Cognitive, Outils et Méthodologies scientifiques, Neurosciences Cognitives, Neurophysiologie en Français et Anglais
+ Ghent University (Belgium) - Total: 100h  Master in Theoretical and Experimental Psychology: Modelling of Cognitive Processes (M1, 27h L and 72h PW; over 3 years from 2018 to 2021) - Presentation of the computational modelling approach in psychology, and implementation of neural network models in Python.</description>
     </item>
     
     <item>
@@ -31,20 +22,29 @@ Research Interest My research focuses on studying the flexibility of perceptual 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mehdisenoussi.github.io/fr/publications/</guid>
-      <description>Articles Preprints of submitted publications  Senoussi, M., Verbeke, P., Desender, K., Loof, E.D., Talsma, D., and Verguts, T. (2020). Theta oscillations shift towards optimal frequency for cognitive control. bioRxiv, 2020.08.30.273706.
+      <description>Articles Pré-publications de publications en révision  Senoussi, M., Verbeke, P., Desender, K., Loof, E.D., Talsma, D., and Verguts, T. (2020). Theta oscillations shift towards optimal frequency for cognitive control. bioRxiv, 2020.08.30.273706.
  Senoussi, M., VanRullen, R., and Reddy, L. (2020). Anticipatory reinstatement of expected perceptual events during visual sequence learning. bioRxiv, 2020.11.28.402123.
- Pistono, A., Senoussi, M., Guerrier, L., Rafiq, M., Gimeno, M., Péran, P., Jucla, M., and Pariente, J. (2020).</description>
+ Pistono, A., Senoussi, M., Guerrier, L., Rafiq, M., Gimeno, M., Péran, P., Jucla, M., and Pariente, J.</description>
     </item>
     
     <item>
-      <title>Teaching</title>
-      <link>https://mehdisenoussi.github.io/fr/teaching/</link>
+      <title>Responsabilités académiques &amp; collectives</title>
+      <link>https://mehdisenoussi.github.io/fr/others/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mehdisenoussi.github.io/fr/teaching/</guid>
-      <description>Lectures (L), Directed Work (DW), Practical Work (PW).
-Total: &amp;gt; 240 Hours in Cognitive psychology, Ergonomics, Tools and Methodology of science, Cognitive Neuroscience, Neurophysiology in French and English
- Ghent University (Belgium) - Total: 100h  Master in Theoretical and Experimental Psychology: Modelling of Cognitive Processes (M1, 27h L and 72h PW; over 3 years from 2018 to 2021) - Presentation of the computational modelling approach in psychology, and implementation of neural network models in Python.</description>
+      <guid>https://mehdisenoussi.github.io/fr/others/</guid>
+      <description>Responsabilités collectives/administratives  2019-2021: Responsible for the purchase of two eye-tracking devices for an EEG platform at the Department of Experimental Psychology at Ghent University, and the MRI platform at Ghent University Hospital. Market research, budget calculation, ordering and organization of training provided by the company providing the eye trackers (SR-Research). Administrative and technical support following the purchase.
+ Since 2020: Member of the oculometry support group - Department of Experimental Psychology, Ghent University.</description>
+    </item>
+    
+    <item>
+      <title>À propos</title>
+      <link>https://mehdisenoussi.github.io/fr/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mehdisenoussi.github.io/fr/about/</guid>
+      <description>À propos  Je suis chercheur postdoctorant en sciences cognitives @ l&amp;rsquo;Université de Gand. Mes recherches portent sur la façon dont nous représentons et utilisons de nouvelles informations de manière flexible pour intéragir avec le monde.
+Research Interest Mes recherches visent à mieux comprendre la flexibilité des représentations perceptives et mnésiques au niveau comportemental et neural, ainsi que les mécanismes de contrôle cognitif permettant d&amp;rsquo;utiliser ces informations de manière flexible pour réaliser différentes tâches.</description>
     </item>
     
   </channel>
