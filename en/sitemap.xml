@@ -14,6 +14,18 @@
                 href="https://mehdisenoussi.github.io/about/"
                 />
   </url><url>
+    <loc>https://mehdisenoussi.github.io/cv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mehdisenoussi.github.io/fr/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehdisenoussi.github.io/cv/"
+                />
+  </url><url>
     <loc>https://mehdisenoussi.github.io/</loc>
     <xhtml:link
                 rel="alternate"

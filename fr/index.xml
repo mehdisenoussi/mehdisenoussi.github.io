@@ -6,6 +6,16 @@
     <description>Recent content on Mehdi Senoussi</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://mehdisenoussi.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Curriculum Vitae</title>
+      <link>https://mehdisenoussi.github.io/fr/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mehdisenoussi.github.io/fr/cv/</guid>
+      <description>Bio. courte Après un master en Sciences Cognitives (Cogmaster) à Paris (France), j&amp;rsquo;ai poursuivi en thèse à Toulouse sous la supervision de Leila Reddy et Rufin VanRullen. Durant ce doctorat, j&amp;rsquo;ai étudié les conséquences comportementales et neurales d&amp;rsquo;apprentissages à court- et long-termes : les effets sur les performances de reconnaissance visuelle, la dynamique neurale du traitement visuel et les représentations d&amp;rsquo;objets visuels danns le cortex occipito-temporal.
+Après ma thèse je me suis intéressé à la notre capcité à utiliser ces représentations mentales/neurales de manière flexible pour atteindre divers buts, et les cas dans lesquels ces processus dysfonctionnaient.</description>
+    </item>
+    
+    <item>
       <title>Enseignement et encadrement</title>
       <link>https://mehdisenoussi.github.io/fr/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -43,8 +53,8 @@ Total: &amp;gt; 240 Heures en Psychologie Cognitive, Ergonomie Cognitive, Outils
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mehdisenoussi.github.io/fr/about/</guid>
-      <description>À propos  Je suis chercheur postdoctorant en sciences cognitives @ l&amp;rsquo;Université de Gand. Mes recherches portent sur la façon dont nous représentons et utilisons de nouvelles informations de manière flexible pour intéragir avec le monde.
-Research Interest Mes recherches visent à mieux comprendre la flexibilité des représentations perceptives et mnésiques au niveau comportemental et neural, ainsi que les mécanismes de contrôle cognitif permettant d&amp;rsquo;utiliser ces informations de manière flexible pour réaliser différentes tâches.</description>
+      <description>Bienvenue !  Je suis chercheur postdoctorant en sciences cognitives @ l&amp;rsquo;Université de Gand. Mes recherches portent sur la façon dont nous représentons et utilisons de nouvelles informations de manière flexible pour intéragir avec le monde.
+Thèmes de recherches Mes recherches visent à mieux comprendre la flexibilité des représentations perceptives et mnésiques au niveau comportemental et neural, ainsi que les mécanismes de contrôle cognitif permettant d&amp;rsquo;utiliser ces informations de manière flexible pour réaliser différentes tâches.</description>
     </item>
     
   </channel>
